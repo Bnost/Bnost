@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning computer engineering
   
-- 📫 You can reach with Linkedln if u wan.
+- 📫 You can reach with Linkedln if u want.
