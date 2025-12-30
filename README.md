@@ -1,7 +1,7 @@
 ## Hi there 👋
 
   My name is Berke Nergizli.
-  I am a student at Cukurova University.
+  I am a student in Cukurova University.
 
 - 🌱 I’m currently learning computer engineering
   
